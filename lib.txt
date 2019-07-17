@@ -1,1 +1,2 @@
 this is lib txt file
+add 2 line to test
