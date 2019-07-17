@@ -1,4 +1,2 @@
 # lib
-public static void main (){
-	
-}
+tips:dangerous
